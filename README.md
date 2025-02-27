@@ -2,3 +2,5 @@
 
 23/02/2025
 yes
+
+theme: jekyll-theme-minimal
